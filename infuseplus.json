@@ -16,22 +16,6 @@
             "markdown": "<p>Features:</p> <p>• Pro features</p> <p>• Double tap to Play/Pause gesture</p> <p>• Custom seek time for Seek Forward/Backward buttons</p> <p>• Custom double tap to skip time</p>",
             "useSpacing": true,
             "useRawFormat": true
-          },
-          {
-            "class": "DepictionScreenshotsView",
-            "screenshots": [
-              {
-                "url": "https://i.imgur.com/jxE0qD3.png",
-                "accessibilityText": "Screenshot of Infuse plus settings button",
-                "itemSize": "750x1294"
-              },
-              {
-                "url": "https://i.imgur.com/yaWIFVu.png",
-                "accessibilityText": "Screenshot of Infuse plus options",
-                "itemSize": "750x1294"
-              }
-            ],
-            "itemCornerRadius": 15
           }
         ],
         "xPadding": 10
