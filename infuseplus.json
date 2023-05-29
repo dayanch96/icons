@@ -23,21 +23,17 @@
               {
                 "url": "https://i.imgur.com/jxE0qD3.png",
                 "accessibilityText": "Screenshot of Infuse plus settings button",
-                "itemSize": {
-                    "x": 750,
-                    "y": 1294
-                  }
               },
               {
                 "url": "https://i.imgur.com/yaWIFVu.png",
                 "accessibilityText": "Screenshot of Infuse plus options",
-                "itemSize": {
-                    "x": 750,
-                    "y": 1294
-                  }
               }
             ],
-            "itemCornerRadius": 15
+            "itemCornerRadius": 15,
+            "itemSize": {
+                "x": 750,
+                "y": 1294
+            }
           }
         ],
         "xPadding": 10
