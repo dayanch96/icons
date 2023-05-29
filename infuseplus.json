@@ -13,7 +13,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": "<p>Features:</p> <p>• Pro features</p> <p>• Double tap to Play/Pause gesture</p> <p>• Custom seek time for Seek Forward/Backward buttons</p> <p>• Custom double tap to skip time</p>",
+            "markdown": "<p>Features:</p> <p>• Pro features</p> <p>• Double tap to Play/Pause gesture</p> <p>• Custom seek time for Seek Forward/Backward buttons</p> <p>• Custom double tap to skip time</p> <p></p> <p>You can find Infuse Plus preferences in the Settings tab</p>",
             "useSpacing": true,
             "useRawFormat": true
           }
