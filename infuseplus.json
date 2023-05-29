@@ -32,7 +32,7 @@
                 "accessibilityText": "Screenshot of Infuse plus options"
               }
             ],
-            "itemSize": "{160, 275}",
+            "itemSize": {160, 275},
             "itemCornerRadius": 5
           }
         ],
