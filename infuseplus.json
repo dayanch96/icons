@@ -33,9 +33,7 @@
               }
             ],
             "itemCornerRadius": 15,
-            "itemSize": {
-                "x": 750,
-                "y": 1294
+            "itemSize": "{750, 1294}"
             }
           }
         ],
