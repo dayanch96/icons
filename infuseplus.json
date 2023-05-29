@@ -18,6 +18,9 @@
             "useRawFormat": true
           },
           {
+            "class": "DepictionSeparatorView"
+          },
+          {
             "class": "DepictionScreenshotsView",
             "screenshots": [
               {
