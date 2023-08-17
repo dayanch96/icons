@@ -41,12 +41,7 @@
           },
           {
             "class": "DepictionMarkdownView",
-            "markdown": [
-                "- Added Arabic (@iA7myd), Japanese (@SKEIDs) and Spanish (@Deci8BelioS) localizations",
-                "- Added option to force enable background playback (useful if infuse resets this option)",
-                "- Added Special thanks section",
-                "- Enhanced settings - now options applies immediately"
-              ]
+            "markdown": "<p>- Added Arabic (@iA7myd), Japanese (@SKEIDs) and Spanish (@Deci8BelioS) localizations</p> <p>- Added option to force enable background playback (useful if infuse resets this option)</p> <p>- Added Special thanks section</p> <p>- Enhanced settings - now options applies immediately</p>"
           },
           {
             "class": "DepictionSeparatorView"
