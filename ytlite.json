@@ -1,0 +1,20 @@
+{
+    "minVersion": "0.4",
+    "class": "DepictionTabView",
+    "tabs": [
+      {
+        "class": "DepictionStackView",
+        "tabname": "Details",
+        "views": [
+          {
+            "class": "DepictionSubheaderView",
+            "useMargins": true,
+            "title": "A lightweight enhancer with the most flexible settings for the YouTube app, ranging from interface adjustments to the app's behavior in various situations."
+          }
+        ],
+        "xPadding": 10
+      }
+    ],
+    "tintColor": "#E36678",
+    "headerImage": "https://i.imgur.com/1fl2iIk.png"
+  }
