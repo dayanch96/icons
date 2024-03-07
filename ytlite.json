@@ -9,7 +9,13 @@
           {
             "class": "DepictionSubheaderView",
             "useMargins": true,
-            "title": "A lightweight enhancer with the most flexible settings for the YouTube app, ranging from interface adjustments to the app's behavior in various situations."
+            "title": "Lightweight YouTube Enhancer"
+          },
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "<p>A lightweight enhancer with the most flexible settings for the YouTube app, ranging from interface adjustments to the app's behavior in various situations.</p>",
+            "useSpacing": true,
+            "useRawFormat": true
           }
         ],
         "xPadding": 10
